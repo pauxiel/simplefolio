@@ -1,12 +1,20 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
+// @import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+// @import url('https://fonts.googleapis.com/css2?family=Mountains+of+Christmas&display=swap');
+
 h1 {
   font-weight: 700;
+  // font-family: 'Mountains of Christmas', cursive;
 }
 
 p,
 a {
+  // font-family: 'Shadows Into Light', cursive;
   font-family: 'Montserrat', sans-serif;
+  // font-family: 'Quicksand', sans-serif;
+  
+
   font-size: $default-font-size;
 }
 
